@@ -6,7 +6,7 @@ const About = () => {
       <h4>Designer's</h4>
       <h2>ABOUT</h2>
       <p>
-        This website is developed by sai from nowonwards they are starting a startup and the partners are xxxx,xxxx,xxxx and SAI, Lets divide the percentage into 4 parts, If you agree with the above conditions kindly go to the contact section and give your reviews
+      We bring you carefully-curated interior design ideas, to give your home a brand new look. Explore exclusive interior designs and trends that are every bit inspirational as they are practical. Our team of interior designers have put together ideas across kitchen, bedroom, living room and more, to help you pick a design that will best suit your home interior requirements.
       </p>
     </section>
   );
