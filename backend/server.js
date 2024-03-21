@@ -49,7 +49,7 @@ app.use(
 app.use("/api/v1/message", router);
 
 app.get("/", (req, res) => {
-  res.send("Setup completed");
+  res.send("Kindly redirect to the link https://aware-sundress-fox.cyclic.app/api/v1/message/contact");
 });
 
 connectdb().then(() => {

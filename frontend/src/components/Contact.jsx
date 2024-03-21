@@ -12,7 +12,7 @@ const Contact = () => {
     e.preventDefault();
     await axios
       .post(
-        "http://localhost:5000/api/v1/message/contact",
+        "https://aware-sundress-fox.cyclic.app/api/v1/message/contact",
         {
           name,
           email,
